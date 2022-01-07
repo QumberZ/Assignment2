@@ -1,0 +1,62 @@
+myEach is:
+1
+2
+3
+4
+5
+
+
+The mapped array is:
+[ 3, 2, 5, 4 ]
+
+
+myFilter:
+[ 2, 4, 9, 5, 8, 'hello', 'hi' ]
+
+
+mySome is : 
+false
+
+
+myEvery is:
+true
+
+
+Addition of elements is: 
+109
+
+
+myIncludes of index 2 is: 
+true
+
+
+myindex of 5 is found at index:
+3
+
+
+Pushing of elements:
+[ 23, 30, 11, 4 ]
+[ 23, 30, 11, 4, 5 ]
+[ 23, 30, 11, 4, 5, 9 ]
+[
+  23,    30, 11,
+  4,     5,  9,
+  'cat'
+]
+
+
+Last dupl elements of 1 is located at index: 
+5
+Last dupl elements of 7 is located at index: 
+4
+
+
+Keys Grabbed from left of array: 
+[ '1', '2', '3', '4' ]
+
+
+values Grabbed from right of array: 
+[ 'one', 'two', 'three', 'four' ]
+
+
+➜  assignment 2 
